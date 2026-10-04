@@ -15,21 +15,6 @@ Currently, I specialize in **Web Security, Ethical Hacking, and Penetration Test
 - **🌐 Web & Backend:** React, Node.js, RESTful APIs, PostgreSQL, MongoDB, Linux Administration
 - **🎯 Methodologies:** OWASP Top 10, MITRE ATT&CK, Secure SDLC, Vulnerability Assessment
 
----
-
-## 🚀 Featured Projects
-
-- 🔍 **[Terminal-cheat-commands](https://github.com/secfz/Terminal-cheat-commands)**  
-  A comprehensive, well-organized cheat sheet and quick-reference guide for Linux and Terminal commands. Designed to boost productivity for developers and security practitioners alike.
-  - 🚩 **[HTB Write-up: Touch](https://github.com/secfz/HTB-Machines/blob/main/HTB%5CTouch)**
-  - — Professional, report-style technical breakdown of the "Touch" machine, featuring Kiosk Breakout and MySQL UDF Privilege Escalation with remediation steps.
-
-- 🚩 **Coming Soon:**  
-  - Custom Python/Bash automation scripts for reconnaissance and vulnerability scanning.
-  - Detailed CTF (HackTheBox / TryHackMe) write-ups and methodology breakdowns.
-  - Secure coding examples demonstrating how to patch common web vulnerabilities (XSS, SQLi, CSRF).
-
----
 
 ## 🎓 Mentorship & Community
 
