@@ -21,6 +21,8 @@ Currently, I specialize in **Web Security, Ethical Hacking, and Penetration Test
 
 - 🔍 **[Terminal-cheat-commands](https://github.com/secfz/Terminal-cheat-commands)**  
   A comprehensive, well-organized cheat sheet and quick-reference guide for Linux and Terminal commands. Designed to boost productivity for developers and security practitioners alike.
+  - 🚩 **[HTB Write-up: Touch](https://github.com/secfz/HTB-Machines/blob/main/Touch.md)**
+  - — Professional, report-style technical breakdown of the "Touch" machine, featuring Kiosk Breakout and MySQL UDF Privilege Escalation with remediation steps.
 
 - 🚩 **Coming Soon:**  
   - Custom Python/Bash automation scripts for reconnaissance and vulnerability scanning.
@@ -55,7 +57,7 @@ I'm always open to discussing cybersecurity, new opportunities, or potential col
 
 - 📱 **Telegram:** [@Secfz](https://t.me/Secfz)
 - 💼 **LinkedIn:** [Fayozbek Iskandarov](https://www.linkedin.com/in/iskandarov-fayozbek)
-- 🌐 **Location:** Tashkent, Uzbekistan 🇺🇿
+- 🌐 **Location:** Samarqand, Uzbekistan 🇺🇿
 - 📧 **Email:** *iskandarovfayozbek099@gmail.com*
 
 ---
