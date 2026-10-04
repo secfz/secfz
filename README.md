@@ -21,7 +21,7 @@ Currently, I specialize in **Web Security, Ethical Hacking, and Penetration Test
 
 - 🔍 **[Terminal-cheat-commands](https://github.com/secfz/Terminal-cheat-commands)**  
   A comprehensive, well-organized cheat sheet and quick-reference guide for Linux and Terminal commands. Designed to boost productivity for developers and security practitioners alike.
-  - 🚩 **[HTB Write-up: Touch](https://github.com/secfz/HTB-Machines/blob/main/Touch.md)**
+  - 🚩 **[HTB Write-up: Touch](https://github.com/secfz/HTB-Machines/blob/main/HTB%5CTouch)**
   - — Professional, report-style technical breakdown of the "Touch" machine, featuring Kiosk Breakout and MySQL UDF Privilege Escalation with remediation steps.
 
 - 🚩 **Coming Soon:**  
